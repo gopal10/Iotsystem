@@ -1,0 +1,39 @@
+body
+{
+  background:linear-gradient(100deg,#ffd86f,#ffd86f);
+}
+.navbar
+{
+  font-family: 'Oswald', sans-serif;
+    box-shadow: 3px 3px 3px #4285f4;
+
+}
+h1
+{
+ font-family: 'Oswald', sans-serif;
+  color: white !important;
+    text-shadow: 2px 2px 2px #000fff;
+
+}
+#testTable {
+   
+  
+    width: 100%;
+}
+
+#testTable td, #testTable th {
+    border: 2px solid brown;
+    padding: 10px;'
+  
+    background: #4285f4;
+}
+
+#testTable tr {
+  
+    background: white;
+}
+
+
+
+#testTable tr:hover {background-color: lightgrey;}
+
